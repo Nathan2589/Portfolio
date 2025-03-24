@@ -37,7 +37,7 @@ const LoadingRoute = () => {
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename = "/3d_Portfolio">
       <Routes>
         <Route path="/loading" element={<LoadingRoute />} />
         <Route path="/" element={
