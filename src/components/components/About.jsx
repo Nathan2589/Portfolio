@@ -51,7 +51,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] 
         max-w-3xl leading-[30px]">
         I'm an aspiring software engineer, blending creativity with a thirst for technical
-        growth. I have experience in Python, Java, JavaScript, React.
+        growth. I have experience in Python, Java, JavaScript, React, HTML and CSS.
         My curiosity and passion for technology and its capabalities have led me to
         venture into exciting team and personal projects in Machine Learning,Web Development, Cloud Infrastructure
         and more.
