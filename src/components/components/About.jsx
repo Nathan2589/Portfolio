@@ -51,10 +51,10 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] 
         max-w-3xl leading-[30px]">
         I'm an aspiring software engineer, blending creativity with a thirst for technical
-        growth. I have experience in Python, Java, JavaScript, React, CSS, three.js, object-oriented programming.
+        growth. I have experience in Python, Java, JavaScript, React.
         My curiosity and passion for technology and its capabalities have led me to
-        venture into exciting projects and ideas, like Augmented Reality development/ integration, Machine Learning,
-        Mobile App development and more.
+        venture into exciting team and personal projects in Machine Learning,Web Development, Cloud Infrastructure
+        and more.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap justify-center gap-10">
